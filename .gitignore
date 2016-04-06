@@ -1,0 +1,8 @@
+/node_modules
+package.json
+tsconfig.json
+typings.json
+/app/app.component.js
+/app/app.component.js.main
+/app/main.js
+/app/main.js.map
